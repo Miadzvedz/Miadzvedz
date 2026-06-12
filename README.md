@@ -35,8 +35,8 @@
 ---
 
 #### 📫 My Contacts :  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-medved-grizzly/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/av_grizzly/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aliaksandr-miadzvedz/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/psr_7n/)
 
 ---
 
